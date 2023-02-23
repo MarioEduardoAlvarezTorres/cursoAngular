@@ -1,0 +1,6 @@
+[submodule "appAngular1"]
+	path = appAngular1
+	url = https://github.com/MarioEduardoAlvarezTorres/appAngular1.git
+[submodule "appAngular2"]
+	path = appAngular2
+	url = https://github.com/MarioEduardoAlvarezTorres/appAngular2.git
